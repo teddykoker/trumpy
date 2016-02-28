@@ -3,7 +3,7 @@ A command line program for impersonating people on Twitter
 
 ##Authors
 - [Tom Koker](http://tomkoker.com)
-- Aryeh Lieberman
+- [Aryeh Lieberman](http://github.com/Aryeh49)
 
 ##Installation
 1. Clone the repository: `git clone https://github.com/tomkoker/tinder.git`
