@@ -6,9 +6,9 @@ A command line program for impersonating people on Twitter
 - [Aryeh Lieberman](http://github.com/Aryeh49)
 
 ##Installation
-1. Clone the repository: `git clone https://github.com/tomkoker/tinder.git`
+1. Clone the repository: `git clone https://github.com/tomkoker/trumpy.git`
 2. Install: `python trumpy/setup.py install`
-    * To remove simply run `pip uninstall tinder`
+    * To remove simply run `pip uninstall trumpy`
 
 ##Use
 
